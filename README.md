@@ -30,5 +30,15 @@
 }
 ```
 
+## todo
+- initial setup with a simple query with static data
+- add a database
+- add mutations
+- replace spring mvc with spring webflux
+- ...
+- final, take code in this repo and replace in [previous repo](https://github.com/kyeung2/tutorial-graphql)
+- delete this repo, and rename the previous repo to this `example-graphql-springboot`
+
+
 ## links
 - [GraphQL getting started](https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/)
