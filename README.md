@@ -7,7 +7,7 @@
 `gradle clean build`
 
 ## run
-`gradle boot run`
+`gradle bootRun`
 
 ## usage
 - install: [graphql-playground](https://github.com/graphql/graphql-playground)
