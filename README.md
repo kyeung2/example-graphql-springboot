@@ -6,6 +6,9 @@
 ## build
 `gradle clean build`
 
+## test
+`gradle test --warning-mode all`
+
 ## run
 `gradle bootRun`
 
